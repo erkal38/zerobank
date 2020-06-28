@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5467c99-491b-4a9b-8414-b8d7caeeeb0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cwasrp9Amn1wmS5RwkgFtTckwF" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zerobank-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zerobank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zerobank.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.zerobank.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5467c99-491b-4a9b-8414-b8d7caeeeb0c" name="Default Changelist" comment="" />
+      <created>1591442318579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591442318579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1592094363328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1592094363328" />
+    <state x="446" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591442520552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1591442520552" />
+    <state x="-878" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1592445032229">
+      <screen x="-1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="-878" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1592445032229" />
+    <state width="1322" height="235" key="GridCell.Tab.0.bottom" timestamp="1593190657115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1592446609212" />
+    <state width="1322" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1593190657115" />
+    <state width="1322" height="235" key="GridCell.Tab.0.center" timestamp="1593190657115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1592446609212" />
+    <state width="1322" height="235" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1593190657115" />
+    <state width="1322" height="235" key="GridCell.Tab.0.left" timestamp="1593190657115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1592446609212" />
+    <state width="1322" height="235" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1593190657115" />
+    <state width="1322" height="235" key="GridCell.Tab.0.right" timestamp="1593190657115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="235" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1592446609212" />
+    <state width="1322" height="235" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1593190657115" />
+    <state x="337" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591829802050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1591829802050" />
+    <state x="390" y="120" width="585" height="488" key="find.popup" timestamp="1592444665280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="120" width="585" height="488" key="find.popup/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1592444665280" />
+    <state x="65" y="69" key="new project wizard" timestamp="1592524735613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="69" key="new project wizard/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1592524735612" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1591826711855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1591826711855" />
+    <state x="339" y="158" key="run.anything.popup" timestamp="1592095002341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="158" key="run.anything.popup/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1592095002341" />
+  </component>
+</project>
