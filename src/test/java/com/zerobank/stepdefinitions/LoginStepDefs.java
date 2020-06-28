@@ -12,7 +12,7 @@ public class LoginStepDefs {
     @Given("the user landed homepage")
     public void the_user_landed_homepage() {
        Assert.assertTrue("page title is Zero-Bank...", new LoginPage().isPageAccesible());
-//anything else
+
     }
 
     @When("the user clicks signing button")
